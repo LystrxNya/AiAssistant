@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">妲の玩具箱</string>
+
+    <!-- 通知渠道 -->
+    <string name="channel_stopwatch">秒表计时</string>
+    <string name="channel_stopwatch_desc">显示秒表计时状态</string>
+    <string name="channel_reminder">待办提醒</string>
+    <string name="channel_reminder_desc">待办事项到期提醒</string>
+
+    <!-- 秒表通知 -->
+    <string name="stopwatch_notification_title">妲の玩具箱正在计时…</string>
+    <string name="stopwatch_notification_action_pause">暂停</string>
+    <string name="stopwatch_notification_action_resume">继续</string>
+    <string name="stopwatch_notification_action_stop">停止</string>
+
+    <!-- 模块标题 -->
+    <string name="module_chat">智能对话</string>
+    <string name="module_ocr">图文识别</string>
+    <string name="module_transcription">录音转文字</string>
+    <string name="module_todo">智能待办</string>
+    <string name="module_settings">设置</string>
+    <string name="module_password">密码本</string>
+    <string name="module_log">日志面板</string>
+    <!-- 权限说明 -->
+    <string name="permission_camera_rationale">需要相机权限来拍照和扫描文档</string>
+    <string name="permission_audio_rationale">需要音频访问权限来读取录音文件</string>
+    <string name="permission_notification_rationale">需要通知权限来发送待办提醒</string>
+    <string name="permission_biometric_rationale">需要生物识别权限来保护密码本安全</string>
+</resources>
